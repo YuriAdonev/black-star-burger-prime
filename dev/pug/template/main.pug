@@ -15,9 +15,10 @@ html(lang="ru-RU")
 
 	body(class=pageClass)
 
-		include ../modules/header/header
+		include ../modules/header/main-header
 		main
 			block content
+		include ../includes/subscribe
 		include ../modules/footer/footer
 		
 		script(src="js/jquery-3.3.1.min.js")

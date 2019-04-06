@@ -1,1 +1,47 @@
-footer { flex: 0 0 auto; }
+.main-footer {
+	background-color: $dark;
+}
+
+.main-footer__wrapper {
+	
+}
+
+.footer-nav {
+	
+}
+
+.footer-nav__item {
+	
+}
+
+.footer-nav__link {
+	color: #fff;
+}
+	
+.copyright {
+	
+}
+
+.copyright__text {
+	color: #fff;
+}
+
+.footer-social {
+	
+}
+
+.footer-social__item {
+	
+}
+
+.footer-social__link {
+	&--vk {
+		
+	}
+	&--facebook {
+		
+	}
+	&--instagram {
+		
+	}
+}
